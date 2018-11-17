@@ -1,0 +1,30 @@
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.csprojAssemblyReference.cache
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\Projection.g.cs
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\ProjectionTimeline.g.cs
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\App.g.cs
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System_MarkupCompile.cache
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System_MarkupCompile.lref
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MPMS - Projection Management System.exe.config
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MPMS - Projection Management System.exe
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MPMS - Projection Management System.pdb
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\Projection.baml
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\ProjectionTimeline.baml
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.g.resources
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS___Projection_Management_System.Properties.Resources.resources
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.csproj.GenerateResource.cache
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.csproj.CoreCompileInputs.cache
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.exe
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.pdb
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\Vlc.DotNet.Wpf.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\MPMS - Projection Management System.csproj.CopyComplete
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\NumericUpDown.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\ProjectionTimelineMetro.baml
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\ProjectionTimelineMetro.g.cs
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\ControlzEx.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MahApps.Metro.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\ControlzEx.pdb
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MahApps.Metro.pdb
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\bin\Debug\MahApps.Metro.xml
+C:\Users\Erick\source\repos\MPMS - Projection Management System\MPMS - Projection Management System\obj\Debug\App.baml
